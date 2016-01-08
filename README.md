@@ -1,0 +1,2 @@
+# HumanityAPI
+Humanity API
